@@ -4,9 +4,9 @@ everyone dreads at the start of the semester. Sorry, I just needed a filler for 
 
 const yourName : String = "Taylor";
 let yourPronouns : String = "He/Him";
-const yourMajor : String = "CompSci";
+const yourMajor : String = "Computer Science";
 let classification : String = "Junior";
-let oneExcite : String = "HTML";
-let anyConcerns : String = "TS";
+let oneExcite : String = "Working with HTML & typescript";
+let anyConcerns : String = "Working with HTML & typescript";
 let funFact : String = "I play the drums";
 
