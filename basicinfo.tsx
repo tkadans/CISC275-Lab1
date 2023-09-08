@@ -9,4 +9,3 @@ let classification : String = "Junior";
 let oneExcite : String = "Working with HTML & typescript";
 let anyConcerns : String = "Working with HTML & typescript";
 let funFact : String = "I play the drums";
-
